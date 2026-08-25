@@ -60,7 +60,7 @@ class concat
 
 
 ## OUTPUT:
-![Image}(https://github.com/aswin0603/19AI307_JAVA/blob/main/Module-03/DAY-2/Screenshot%202026-08-25%20202416.png)
+![Image](https://github.com/aswin0603/19AI307_JAVA/blob/main/Module-03/DAY-2/Screenshot%202026-08-25%20202416.png)
 
 
 ## RESULT:
