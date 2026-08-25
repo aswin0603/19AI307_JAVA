@@ -37,8 +37,8 @@ public class Test {
 }
 
 class Student {
-    String name = "John";
-    String address = "Chennai";
+    String name = "name";
+    String address = "address";
 }
 ```
 
@@ -48,7 +48,8 @@ class Student {
 
 
 ## OUTPUT:
-<img width="418" height="140" alt="image" src="https://github.com/user-attachments/assets/b73f02c3-2bf8-4b69-9981-7a8877bc67b3" />
+
+<img width="670" height="221" alt="image" src="https://github.com/user-attachments/assets/2925c1ba-cc87-4c90-a5ab-e6323471373f" />
 
 
 
