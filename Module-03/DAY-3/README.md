@@ -57,7 +57,8 @@ class replace
 
 
 ## OUTPUT:
-![Uploading image.png…]()
+<img width="767" height="215" alt="image" src="https://github.com/user-attachments/assets/0b90ad09-99b6-439f-a0fa-e59c7e90587d" />
+
 
 
 
