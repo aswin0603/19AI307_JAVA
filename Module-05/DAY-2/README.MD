@@ -27,13 +27,55 @@ To Create a java program to display the value of volume of cylinder get the radi
  ```
 /*
 Program to implement a tightly encapsulated class using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Aswin B
+RegisterNumber:  212224110007
 */
 ```
 
 ## Sourcecode.java:
+```java
+import java.util.Scanner;
 
+class Cylinder
+{
+    private int radius;
+    private int height;
+
+    public void setRadius(int r)
+    {
+        radius = r;
+    }
+
+    public void setHeight(int h)
+    {
+        height = h;
+    }
+
+    public void getVolume()
+    {
+        double volume = Math.PI * radius * radius * height;
+
+        System.out.println("Volume of Cylinder = " + volume);
+    }
+
+    public static void main(String args[])
+    {
+        Scanner sc = new Scanner(System.in);
+
+        int radius = sc.nextInt();
+        int height = sc.nextInt();
+
+        Cylinder c = new Cylinder();
+
+        c.setRadius(radius);
+        c.setHeight(height);
+
+        c.getVolume();
+
+        sc.close();
+    }
+}
+```
 
 
 
