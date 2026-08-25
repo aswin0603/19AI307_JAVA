@@ -60,7 +60,7 @@ class Demo
 
 
 ## OUTPUT:
-
+![Screenshot 2026-08-25 193231.png]
 
 
 ## RESULT:
