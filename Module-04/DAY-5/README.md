@@ -1,4 +1,4 @@
-<img width="672" height="226" alt="image" src="https://github.com/user-attachments/assets/a53f7d49-15ef-47f8-a357-4e0cd8b49ee4" /># Ex.No:4(E)  PARAMETERIZED CONSTRUCTOR
+# Ex.No:4(E)  PARAMETERIZED CONSTRUCTOR
 ## AIM:
 To write a parameterized constructor in the Employee class that initializes name and designation, and then call getter methods in the main() method of another class (Sample) to display the values.
 
