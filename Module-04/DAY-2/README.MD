@@ -82,7 +82,7 @@ class Employee extends Person
 
 
 ## OUTPUT:
-
+![Image](https://github.com/aswin0603/19AI307_JAVA/blob/main/Module-04/DAY-2/Screenshot%202026-08-25%20210903.png)
 
 
 ## RESULT:
