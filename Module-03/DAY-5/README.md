@@ -16,13 +16,25 @@ To write a Java program that creates a StringBuilder object using a given string
  ```
 /*
 Program to implement a StringBuilder Object Reference in Java
-Developed by: 
-RegisterNumber:  
+Developed by: Aswin B
+RegisterNumber:  212224110007
 */
 ```
 
 ## Sourcecode.java:
+```java
+class StringBuilderExample
+{
+    public static void main(String args[])
+    {
+        String str1 = "Hello Java";
 
+        StringBuilder sb = new StringBuilder(str1);
+
+        System.out.println("StringBuilder contents: " + sb);
+    }
+}
+```
 
 
 
@@ -30,6 +42,7 @@ RegisterNumber:
 
 
 ## OUTPUT:
+<img width="707" height="175" alt="image" src="https://github.com/user-attachments/assets/2f08b4cc-23a3-4d13-9ecb-dc7466931f6a" />
 
 
 
