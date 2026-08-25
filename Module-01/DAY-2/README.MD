@@ -60,7 +60,7 @@ class Demo
 
 
 ## OUTPUT:
-![Image](Screenshot 2026-08-25 193231.png)
+![Image](https://github.com/aswin0603/19AI307_JAVA/blob/main/Module-01/DAY-2/Screenshot%202026-08-25%20193231.png?raw=true)
 
 
 ## RESULT:
