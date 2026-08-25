@@ -83,7 +83,7 @@ class Cylinder
 
 
 ## OUTPUT:
-
+![Image](https://github.com/aswin0603/19AI307_JAVA/blob/main/Module-05/DAY-2/Screenshot%202026-08-25%20212943.png)
 
 
 ## RESULT:
